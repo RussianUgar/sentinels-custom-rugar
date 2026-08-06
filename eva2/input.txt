@@ -1,0 +1,283 @@
+##version 107
+
+##hero
+[[art]] card_eva.png
+[[artscale]] centered-box
+[[name]] Evanescia
+[[hp]] 26
+[[topcolor]] ffffff
+[[btmcolor]] f1e0e1
+[[powername]] Youth: Halcyon Evermore
+[[power]] discard up to the top 2 cards of your deck or draw a card.
+[[boxcolor]] f1e0e1
+[[boxheight]] 300
+[[footer]] art by えるも on pixiv
+[[save]]
+
+##hero-incap
+[[name]] evanescia
+[[art]] card_incap.jpg
+[[artscale]] centered
+{ 1 player may put a card from their trash into their deck.
+{ 1 hero may play a card.
+{ 1 hero target regains 2 hp.
+[[footer]] art by @Chyanu_ on x
+[[boxcolor]] f1e0e1
+[[boxheight]] 200
+[[save]]
+
+##hero-deck
+[[art]] card_basic.png
+[[artscale]] stretched
+[[artpos]] centered-box
+[[name]] hero
+[[quantity]] 1
+[[keywords]] one-shot
+[[title]] Syllabus: Pop Quiz
+[[hp]] 0
+[[text]] shuffle up to the top 3 cards of your trash into your deck.\n/evanescia/ deals 1 target x melee damage, where x = the number of cards shuffled this way.\ndiscard the top 2 cards of your deck.
+[[quote]]
+|"You're it\."
+@Evanescia
+[[footer]] art by @qiufeng251 on x
+[[save]]
+
+[[art]] card_skill.png
+[[artscale]] stretched
+[[artpos]] centered-box
+[[name]] hero
+[[quantity]] 1
+[[keywords]] one-shot
+[[title]] Discipline: Final Verdict
+[[hp]] 0
+[[text]] shuffle up to the top 3 cards of your trash into your deck.\n/evanescia/ deals x targets 2 melee damage each, where x = the number of cards shuffled this way.\ndiscard the top 2 cards of your deck.
+[[quote]]
+|"By the Phantasmoon I'll vanquish you\!"
+@Evanescia
+[[footer]] art by @qiufeng251 on x
+[[save]]
+
+[[art]] card_elationskill.png
+[[artscale]] stretched
+[[artpos]] centered-box
+[[name]] hero
+[[quantity]] 1
+[[keywords]] ongoing
+[[title]] Scarlet: Elation or Execution
+[[hp]] 0
+[[text]] !power:! /evanescia/ deals each non-hero target in 1 play area 1 sonic damage. discard the top x cards of your deck, where x = number of powers used this turn. a hero may use a non-innate power. if they do, destroy this card.
+[[quote]]
+|"You've stepped out of line\~"
+@Evanescia
+[[footer]] art by @kimchookki on x
+[[save]]
+
+[[art]] card_technique.png
+[[artscale]] stretched
+[[artpos]] centered-box
+[[name]] hero
+[[quantity]] 1
+[[keywords]] ongoing, limited
+[[title]] Petalfall: Floral Reminiscence
+[[hp]] 0
+[[text]] when this card enters play, either discard the top 3 cards of your deck or use a power printed on this card.\n!power:! play a one-shot card. when that card would shuffle cards from your trash into your deck, you may increase the maximum number of cards shuffled this way by 3. if you do, destroy this card.
+[[quote]]
+|"Petals fall without a trace\."
+@Evanescia
+[[footer]] art by @gamsulidu on x
+[[save]]
+
+[[art]] card_masterfox.png
+[[artscale]] stretched
+[[artpos]] centered-box
+[[name]] hero
+[[quantity]] 1
+[[keywords]] one-shot
+[[title]] Master Fox
+[[hp]] 0
+[[text]] /evanescia/ deals each non-hero target in 1 play area 1 irreducible sonic damage.\nshuffle up to the top 3 cards of your trash into your deck. you may use a power for every 3 cards shuffled this way.
+[[quote]]
+|"Do your worst, Master Fox\."
+@Evanescia
+[[footer]] official gameplay
+[[save]]
+
+[[art]] card_ultimate.png
+[[artscale]] stretched
+[[artpos]] centered-box
+[[name]] hero
+[[quantity]] 1
+[[keywords]] one-shot
+[[title]] Swordsong: Absolution Denied
+[[hp]] 0
+[[text]] shuffle up to the top 6 cards of your trash into your deck. for each card shuffled this way, increase one numeral on this card by one.\n/evanescia/ deals 0 targets two melee damage each. /evanescia/ deals a target that took damage this way 0 sonic damage.
+[[quote]]
+|"I decide the rules of the game\.\.\. And you're out\!"
+@Evanescia
+[[footer]] art by @kare_u__don on x
+[[save]]
+
+[[art]] card_rules.png
+[[artscale]] stretched
+[[artpos]] centered-box
+[[name]] hero
+[[quantity]] 1
+[[keywords]] one-shot
+[[title]] Broken Rules
+[[hp]] 0
+[[text]] shuffle up to the top 6 cards of your trash into your deck. for every 3 cards shuffled this way, destroy 1 villain ongoing or non-target environment card.\ndiscard the top 2 cards of your deck.
+[[quote]]
+|"Since there are no sinners\.\.\. then I shall become the "sinner"\."
+@Evanescia
+[[footer]] art by @Rael_elle72 on x
+[[save]]
+
+[[art]] card_rights.png
+[[artscale]] stretched
+[[artpos]] centered-box
+[[name]] hero
+[[quantity]] 1
+[[keywords]] one-shot
+[[title]] Arbiter's Rights
+[[hp]] 0
+[[text]] choose up to 3 cards in your trash and shuffle them into your deck.\nreveal the top x cards from a hero's deck, where x = the number of cards shuffled this way. put 1 card revealed this way into that player's hand, discard the rest in any order.\nfor every 3 cards shuffled this way, that hero may play 1 card.
+[[quote]]
+|"Whenever the Phantasmoon Games are at risk of being suspended or disrupted, I will use the authority granted by the Elation and the Abundance to measure, judge and punish any violators\."
+@Evanescia
+[[footer]] art by kukochi_ on instagram
+[[save]]
+
+[[art]] card_lazy.png
+[[artscale]] stretched
+[[artpos]] centered-box
+[[name]] hero
+[[quantity]] 1
+[[keywords]] one-shot
+[[title]] Dance Under the Moonlight
+[[hp]] 0
+[[text]] draw up to 3 cards.\ndiscard the top 6-x cards of your deck, where x = the number of cards drawn this way times 2.
+[[quote]]
+|"Maybe someday, we'll meet again on a street where flower petals dance in the air\.\.\. I'm looking forward to it\."
+@Evanescia
+[[footer]] art by @CAISENA33 on x
+[[save]]
+
+[[art]] card_corn.png
+[[artscale]] stretched
+[[artpos]] centered-box
+[[name]] hero
+[[quantity]] 1
+[[keywords]] one-shot
+[[title]] Corndog
+[[hp]] 0
+[[text]] shuffle up to the top 3 cards of your trash into your deck. /evanescia/ regains x hp, where x = the number of cards shuffled this way.\nfor every 3 cards shuffled this way, increase damage dealt by /evanescia/ by 1 until the end of your next turn.
+[[quote]]
+|"Hm\.\.\. Just another uneventful day\."
+@Evanescia
+[[footer]] art by @luqiou1_ on x
+[[save]]
+
+[[art]] card_mask.png
+[[artscale]] stretched
+[[artpos]] centered-box
+[[name]] hero
+[[quantity]] 1
+[[keywords]] equipment
+[[title]] The Drawn Mask
+[[hp]] 0
+[[text]] play this card next to another hero without "the drawn mask" next to them.\n!power:! shuffle up to the top 3 cards of your trash into your deck. a hero next to this card may play 1 card or use 1 power.
+[[quote]]
+|"This is what I call\.\.\. reaching the pinnacle of artistry and returning to simplicity\!"
+@Evanescia
+[[footer]] art by @Furioso2201 on x
+[[save]]
+
+[[art]] card_blade.png
+[[artscale]] stretched
+[[artpos]] centered-box
+[[name]] hero
+[[quantity]] 1
+[[keywords]] equipment, limited
+[[title]] Spiritbranch of the True Law
+[[hp]] 0
+[[text]] /at the start of your turn/, either discard the top 3 cards of your deck or shuffle the top 3 cards of your trash into your deck. if cards were shuffled this way, play a card.\n!power:! /evanescia/ deals up to 2 targets 2 melee damage each.
+[[quote]]
+|"Truth and lies are hair's breadth apart. Only the heart can judge\."
+@Evanescia
+[[footer]] art by @CHIARA63710634 on x
+[[save]]
+
+[[art]] card_fluffy.png
+[[artscale]] stretched
+[[artpos]] centered-box
+[[name]] hero
+[[quantity]] 1
+[[keywords]] equipment, limited
+[[title]] "Fluffy Across the Blue"
+[[hp]] 0
+[[text]] /at the end of your turn/, you may destroy this card. if you do, play the top card of x hero decks, where x = the number of cards you shuffled from your trash into your deck this turn divided by 3, rounded down.
+[[quote]]
+|"Little racoon, I've actually been a huge fan of yours all along. From the very first page of The Fluffy, Volume 1, Chapter 1, I was already captivated by you\."
+@Evanescia
+[[footer]] art by @ganleneng0328 on x
+[[save]]
+
+[[art]] card_true.png
+[[artscale]] stretched
+[[artpos]] centered-box
+[[name]] hero
+[[quantity]] 1
+[[keywords]] ongoing, limited
+[[title]] Other Self
+[[hp]] 0
+[[text]] the first time each turn you shuffle cards from your trash into your deck, increase the maximum number of cards shuffled this way by 3.\n/at the end of your turn/, if 9 or more cards were shuffled from your trash into your deck this turn, destroy this card.
+[[quote]]
+|"And through this method, !THEY! imprisoned the most terrifying of horrors within the most ridiculous of games\."
+@Evanescia
+[[footer]] art by Furioso2201 on x
+[[save]]
+
+[[art]] card_swordsinger.png
+[[artscale]] stretched
+[[artpos]] centered-box
+[[name]] hero
+[[quantity]] 1
+[[keywords]] ongoing, limited
+[[title]] Swordsinger
+[[hp]] 0
+[[text]] the first time /evanescia/ deals damage each turn, increase that damage by x, where x is the number of cards shuffled from your trash into your deck this turn divided by 3, rounded down.\n/at the end of your turn/, if 6 or more cards were shuffled from your trash into your deck this turn, /evanescia/ deals 1 target 2 melee damage.
+[[quote]]
+|"She was a beast of blind love and hatred, a sword dancer who devoured the !Crimson Moon!\.\.\."
+@Evanescia
+[[footer]] official artwork
+[[save]]
+
+[[art]] card_tree.png
+[[artscale]] stretched
+[[artpos]] centered-box
+[[name]] hero
+[[quantity]] 1
+[[keywords]] ongoing, limited
+[[title]] Phantasmoon Courtyard
+[[hp]] 0
+[[text]] !power:! discard the top 3 cards of your deck. you may put a card discarded this way into your hand.\n/at the end of your turn/, x hero targets regain 1 hp each, where x = the number of cards you shuffled from your trash into your deck this turn divided by 3, rounded down.
+[[quote]]
+|"Mmm\.\.\. After sleeping for so long, who can truly understand the bliss of waking up and immediately stumbling upon a masterpiece\?"
+@Evanescia
+[[footer]] art by Jelmul on pixiv
+[[save]]
+
+[[art]] card_banger.jpeg
+[[artscale]] stretched
+[[artpos]] centered-box
+[[name]] hero
+[[quantity]] 1
+[[keywords]] ongoing
+[[title]] Certified Banger
+[[hp]] 0
+[[text]] when this card enters play, you may discard the top 3 cards of your deck or play a card.\nthe first time a total of 6 or more cards are shuffled from your trash into your deck each turn, you may destroy this card. if you do, draw a card and you may play a card or use a power.
+[[quote]]
+|"The pinker the hair, the harder they hit\.\.\. Haven't you heard\?"
+@Evanescia
+[[footer]] art by @kom376986 on x
+[[save]]
